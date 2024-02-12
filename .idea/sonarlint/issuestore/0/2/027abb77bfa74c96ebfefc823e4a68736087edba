@@ -1,0 +1,6 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¸ÇÃ€
+M
+java:S1854"8Remove this useless assignment to local variable "temp".(Ìð”w
+>
+java:S1481")Remove this unused "temp" local variable.(Ìð”w

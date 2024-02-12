@@ -1,0 +1,11 @@
+
+X
+java:S2259\"BA "NullPointerException" could be thrown; "head" is nullable here.(ÿ•ê
+]
+java:S2259R"BA "NullPointerException" could be thrown; "head" is nullable here.(‘¡–òùÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¹¢©®
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ªÛü¹ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÛü¹ûÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ş¦†Šùÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(•Ï‹áÿÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ

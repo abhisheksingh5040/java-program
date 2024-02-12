@@ -1,0 +1,13 @@
+
+\
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(“ã’ë
+a
+java:S3655%"FCall "sum.isPresent()" or "!sum.isEmpty()" before accessing the value.(ìèô’ûÿÿÿÿ
+a
+java:S36553"FCall "sum.isPresent()" or "!sum.isEmpty()" before accessing the value.(ìèô’ûÿÿÿÿ
+\
+java:S3655"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(ƒýœƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒýœƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“ã’ë
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ìèô’ûÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ìèô’ûÿÿÿÿ

@@ -1,0 +1,15 @@
+
+^
+java:S2259s"CA "NullPointerException" could be thrown; "temp2" is nullable here.(üŠÍ¿ÿÿÿÿÿ
+^
+java:S2259q"CA "NullPointerException" could be thrown; "temp2" is nullable here.(¥¥œùÿÿÿÿ
+_
+java:S2583A"DChange this condition so that it does not always evaluate to "false"(´úœ„úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş¦†Šùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åæ°‹úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’¥ûˆùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(®ßüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Åæ°‹úÿÿÿÿ
+N
+java:S1117k"8Rename "count" which hides the field declared at line 7.(æÕ¿¼

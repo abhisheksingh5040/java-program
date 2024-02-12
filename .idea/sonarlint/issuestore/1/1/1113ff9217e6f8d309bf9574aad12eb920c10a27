@@ -1,0 +1,11 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(©õ¢Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(àŽ€¼úÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ

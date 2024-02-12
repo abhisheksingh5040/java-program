@@ -1,0 +1,7 @@
+
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³œ°ûÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(’ú»ï
+Q	java:S125"<This block of commented-out lines of code should be removed.(œ±ÉÇ
+=
+java:S1125A"'Remove the unnecessary boolean literal.(”‡¥
